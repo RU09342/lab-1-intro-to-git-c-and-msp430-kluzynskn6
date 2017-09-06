@@ -1,4 +1,5 @@
-This is Nick Kluzynski's version of this project. 
+This is Nick Kluzynski's version of this project.
+ 
 #Lab Exercise 1: Introduction to C, Git, and the MSP430
 This lab is meant to be a gentle introduction to working with the code provided over github, adding your own code, C programming, and getting your launchpads to work. The due date for this Lab exercise is the date of submission for the Milestone project.
 
