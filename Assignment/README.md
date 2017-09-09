@@ -14,5 +14,5 @@ When calling the function, use the following format: math(number 1, number 2, op
 In cases where the result is depenedant on the order of the numbers, number 1 is always placed first.
 ex: math(4,1,-) is equivalent to 4-1
 
-##math.h
+## math.h
 This header file needs to be included with math.c in order to define it as a proper function.
